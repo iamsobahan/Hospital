@@ -150,3 +150,56 @@
   }
 
   /*  banner part end */
+
+  /*  about part start */
+
+  #about-part {
+    margin-top: 45px;
+  }
+
+  #about-part .learn{
+    font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+      font-size: 24px;
+      color: #3ca2a2;
+      text-align: center;
+  }
+  #about-part .round{
+    text-align: center;
+    padding: 25px 0;
+  }
+
+  #about-part .round img{
+    width: 158px;
+    height: 158px;
+    border-radius: 50%;
+  }
+
+  #about-part .about-lorem {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #3ca2a2;
+    text-align: center;
+    width: 308px;
+    margin: 0 auto;
+  }
+
+  #about-part a{
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #3ca2a2;
+    text-align: center;
+    padding-top: 20px;
+   
+  }
+
+  #about-part a i{
+    color: #c20911;
+    margin: 0 5px;
+  }
+ 
+
+  /*  about  part end */
